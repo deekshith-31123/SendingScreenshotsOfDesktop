@@ -8,10 +8,10 @@ from telegram import Bot
 import asyncio
 
 # Telegram bot token
-TOKEN = '6312881266:AAFnm4C_iLM7PtAEWpu-ihHD5KjWZke-xwI'
+# Telegram bot token
+TOKEN = 'your_telegram_bot_token'
 # Telegram chat ID
-CHAT_ID = '1956461906'
-
+CHAT_ID = 'your_chat_id'
 # Initialize the Telegram bot
 bot = Bot(TOKEN)
 
